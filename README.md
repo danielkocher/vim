@@ -12,3 +12,4 @@ ln -s vim .vim
 
 * Pathogen: https://github.com/tpope/vim-pathogen
 * Solarized color scheme: https://github.com/altercation/vim-colors-solarized
+* `vim` primer: https://danielmiessler.com/study/vim/
