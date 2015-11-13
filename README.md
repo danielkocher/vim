@@ -8,6 +8,10 @@ ln -s vim/vimrc .vimrc
 ln -s vim .vim
 ```
 
+## Status
+
+Constantly improving.
+
 # References
 
 * Pathogen: https://github.com/tpope/vim-pathogen
