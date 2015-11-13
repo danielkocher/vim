@@ -18,3 +18,6 @@ set number
 
 set background=dark
 colorscheme solarized
+
+nnoremap <F7> :n<CR>
+nnoremap <F8> :prev<CR>
