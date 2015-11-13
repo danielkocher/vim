@@ -19,5 +19,5 @@ set number
 set background=dark
 colorscheme solarized
 
-nnoremap <F7> :tabn<CR>
-nnoremap <F8> :tabp<CR>
+nnoremap <F7> :tabprev<CR>
+nnoremap <F8> :tabn<CR>
