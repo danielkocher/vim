@@ -21,3 +21,6 @@ colorscheme solarized
 
 nnoremap <F7> :tabprev<CR>
 nnoremap <F8> :tabn<CR>
+
+highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+match OverLength /\%81v.\+/
