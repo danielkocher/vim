@@ -17,3 +17,7 @@ Constantly improving.
 * Pathogen: https://github.com/tpope/vim-pathogen
 * Solarized color scheme: https://github.com/altercation/vim-colors-solarized
 * `vim` primer: https://danielmiessler.com/study/vim/
+
+# Copyright & License
+
+Copyright Daniel Kocher, licensed under the [MIT License](https://opensource.org/licenses/MIT).
