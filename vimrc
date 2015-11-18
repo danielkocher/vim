@@ -22,5 +22,7 @@ colorscheme solarized
 nnoremap <F7> :tabprev<CR>
 nnoremap <F8> :tabn<CR>
 
-highlight OverLength ctermbg=red ctermfg=white guibg=#592929
-match OverLength /\%81v.\+/
+augroup vimrc_autocmds
+  autocmd BufEnter * highlight OverLength ctermbg=red ctermfg=white guibg=#111111
+  autocmd BufEnter * match OverLength /\%81v.*/
+augroup END
